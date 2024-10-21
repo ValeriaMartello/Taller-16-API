@@ -2,10 +2,10 @@ Proyecto "Muchos Gatitos"
 Descripción
 Este proyecto permite a los usuarios obtener imágenes de gatos mediante una conexión con The Cat API. Al hacer clic en el botón "Mostrar más gatitos", se solicita una nueva imagen de gato y se muestra en la página. Este proyecto es una excelente manera de practicar el uso de APIs y JavaScript, así como la integración de Bootstrap para el diseño.
 
-Tecnologías Utilizadas
-HTML
-CSS (Bootstrap)
-JavaScript
+Tecnologías Utilizadas:
+- HTML
+- CSS (Bootstrap)
+- JavaScript
 
 Estructura del Proyecto
 index.html: Archivo principal que contiene la estructura de la página.
