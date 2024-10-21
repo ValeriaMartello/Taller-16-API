@@ -1,0 +1,13 @@
+body {
+    background-color: #f7b3eb;
+}
+
+h1 {
+    color: #f54ca3; 
+}
+
+.btn-custom {
+    background-color: #f54ca3;
+    color: rgb(255, 255, 255); 
+    border-radius: 10px; 
+}
